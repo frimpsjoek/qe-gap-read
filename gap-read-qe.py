@@ -7,7 +7,6 @@ import xml.etree.ElementTree as ET
 import glob
 import sys
 import  math
-import os
 
 
 prefix = sys.argv[1]
